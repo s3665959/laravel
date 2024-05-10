@@ -1,7 +1,7 @@
 @extends('layout')
 @section('title', 'NEW Article')
 @section('content')
-    <h2 class="text text-center py-2"> Write new article</h2>
+    <h2 class="text text-center py-2"> เขียนบทความใหม่</h2>
     <form method="POST">
         @csrf
         <div class="form-group">
