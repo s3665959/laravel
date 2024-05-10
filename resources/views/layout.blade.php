@@ -26,10 +26,10 @@
                         <a class="nav-link" href="/blog">บทความ</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/about">about me</a>
+                        <a class="nav-link" href="/about">เกี่ยวกับเรา</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/create">write new</a>
+                        <a class="nav-link" href="/create">เขียนบทความใหม่</a>
                     </li>
                 </ul>
             </div>

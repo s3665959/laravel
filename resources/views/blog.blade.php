@@ -6,8 +6,8 @@
     <table class="table table-bordered text-center">
         <thead>
             <tr>
-                <th scope="col">Name</th>
-                <th scope="col">Content</th>
+                <th scope="col">ชื่อบทความ</th>
+                <th scope="col">เนื้อหา</th>
                 <th scope="col">Status</th>
             </tr>
         </thead>

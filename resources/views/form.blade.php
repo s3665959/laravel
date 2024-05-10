@@ -13,7 +13,7 @@
             <textarea name="content" cols="30" rows="5" class="form-control"></textarea>
         </div>
         <input type="submit" value="บันทึก" class="btn btn-primary my-3">
-        <a href="/blog" class="btn btn-success">ALL Article</a>
+        <a href="/blog" class="btn btn-success">All Article</a>
     </form>
 
 
